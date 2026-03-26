@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://internet-dot.github.io/hol-reference/sitemap.xml
