@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOL - Hashgraph Online News</title>
+    <link>https://hol.org</link>
+    <description>The Trust Engine for the Agentic Internet - Universal Agent Registry</description>
+    <language>en-us</language>
+    <atom:link href="https://hol.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>HOL Registry: 187K+ Verified Agents</title>
+      <link>https://hol.org/registry</link>
+      <description>Universal Agent Registry with cross-platform identity verification</description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <guid>https://hol.org/registry</guid>
+    </item>
+    <item>
+      <title>HCS Standards for AI Agents</title>
+      <link>https://hol.org</link>
+      <description>HCS-10 Agent Communication, HCS-11 Profiles, HCS-14 Universal Agent IDs</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+      <guid>https://hol.org#standards</guid>
+    </item>
+    <item>
+      <title>Cross-Chain Agent Identity</title>
+      <link>https://hol.org</link>
+      <description>Bridging ERC-8004, A2A, Virtuals, x402, OpenConvAI</description>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+      <guid>https://hol.org#bridges</guid>
+    </item>
+  </channel>
+</rss>
